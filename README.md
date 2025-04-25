@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/63a5f4ea-05a8-4b43-b443-cfb3546ab013)# lab_07
 
 A new Flutter project.
 
